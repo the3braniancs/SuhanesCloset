@@ -1,0 +1,12 @@
+div.gallery {
+  border: 5px solid white;
+}
+div.gallery:hover {
+  border: 5px solid #061d30;
+}
+
+div.desc {
+  text-align: center;
+  font-family: Roboto;
+  font-size: 15px;
+}
